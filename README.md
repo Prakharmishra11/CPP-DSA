@@ -8,6 +8,8 @@ This repository contains my C++ Data Structures and Algorithms practice programs
 - Linked List
 - Stack
 - Queue
+- ### Sorting
+- Bubble Sort
 
 ## Language
 - C++
